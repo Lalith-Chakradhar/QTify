@@ -1,0 +1,16 @@
+.heroContainer {
+    height: 270px;
+    padding: 29px;
+    display: flex;
+    justify-content: center;
+}
+
+.heroText {
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 48px;
+    letter-spacing: 0px;
+    text-align: center;
+    padding-top: 70px;
+    padding-right: 31px;
+}
