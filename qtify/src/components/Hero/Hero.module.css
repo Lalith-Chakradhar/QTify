@@ -1,5 +1,6 @@
 .heroContainer {
     height: 270px;
+    width: 100%;
     padding: 29px;
     display: flex;
     justify-content: center;
