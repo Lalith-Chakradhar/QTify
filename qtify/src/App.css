@@ -1,8 +1,0 @@
-header {
-  height: 74px;
-  width: 100%;
-  background-color: var(--color-primary);
-  display: flex !important;
-  justify-content: space-between;
-  padding: 13px 32px;
-}
